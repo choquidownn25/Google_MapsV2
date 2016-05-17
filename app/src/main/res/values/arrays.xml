@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="map_types">
+        <item>Streets</item>
+        <item>Topografia</item>
+        <item>Gray</item>
+        <item>Oceans</item>
+    </string-array>
+</resources>
